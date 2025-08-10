@@ -29,4 +29,3 @@ cols = len(driver.find_elements(By.XPATH, "/html/body/div[3]/div[2]/div/div[2]/d
 
 print(rows)
 print(cols)
-
